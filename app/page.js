@@ -239,8 +239,8 @@ gsap.to('.hi', {
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
               <p className='text-gray-300 my-2 text-[15px] font-semibold'>i. Single potrait</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A5 sheet</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite Painting</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A5 Sheet</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite painting</p>
             </div>
            </div>
         </div>
@@ -251,8 +251,8 @@ gsap.to('.hi', {
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
               <p className='text-gray-300 my-2 text-[15px] font-semibold'>i. Single potrait</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A4 sheet</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite Painting</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A4 Sheet</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite painting</p>
             </div>
            </div>
         </div>
@@ -263,8 +263,8 @@ gsap.to('.hi', {
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
               <p className='text-gray-300 my-2 text-[15px] font-semibold'>i. Couple potrait</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A4 sheet</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite Painting</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A4 Sheet</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite painting</p>
             </div>
            </div>
         </div>
@@ -275,7 +275,7 @@ gsap.to('.hi', {
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
               <p className='text-gray-300 my-2 text-[15px] font-semibold'>i. Group potrait</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A4 sheet</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A4 Sheet</p>
               <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite Painting</p>
             </div>
            </div>
@@ -289,7 +289,7 @@ gsap.to('.hi', {
               &copy; 2025 <b className='ml-2 text-gray-600'>Rahul Sikdar</b>
           </div>
           <div className='w-1/2 h-full flex gap-4 justify-end items-center'>
-              <span className='text-[18px]'>Go to</span>
+              <span className='text-[18px]'>Go To</span>
                <Link href="https://wa.me/6289240972" target="_blank">
                 <div className='bg-gray-800 cursor-pointer p-3 rounded-full  transition-transform duration-200 hover:scale-115'>
                    <FaWhatsapp className='text-white' size={30} />
