@@ -238,8 +238,8 @@ gsap.to('.hi', {
            <div className='w-full h-full flex flex-col items-center p-2 pb-8 gap-3'>
             <div className='flex flex-col justify-center items-center bg-black rounded-2xl w-full h-full'>
             <h1 className='text-gray-300 my-2 text-[25px] font-bold underline'>Include</h1>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>i. Single potrait</p>
-              <p className='text-gray-300 my-2 text-[15px] font-semibold'>ii. A5 Sheet</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>00i. Single potrait</p>
+              <p className='text-gray-300 my-2 text-[15px] font-semibold'>0ii. A5 Sheet</p>
               <p className='text-gray-300 my-2 text-[15px] font-semibold'>iii. Charcoal and graphite painting</p>
             </div>
            </div>
